@@ -3,7 +3,7 @@ title: Vorograd Lore Bible
 description: A Compendium of Lore for Road to Vorograd
 
 # Theme Settings
-theme: jekyll-theme-hacker
+remote_theme: pages-themes/hacker@v0.2.0
 
 # Basic Settings
 baseurl: ""
