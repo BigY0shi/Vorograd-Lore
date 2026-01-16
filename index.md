@@ -13,11 +13,12 @@ This is a comprehensive lore bible documenting the world, characters, and storie
 
 ## Contents
 
-- [LoretBible.md](LoretBible.md) - The complete lore documentation
+- [LoreBible.md](LoreBible.md) - The complete lore documentation
 
 ## Getting Started
 
 Explore the lore documents to learn more about the world of Vorograd and its inhabitants.
+- [ShortStory.md](ShortStory.md) - Rise of Kurbanov: A Vorograd Story
 
 ---
 
