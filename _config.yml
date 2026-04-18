@@ -1,15 +1,21 @@
-# Site settings
+# Jekyll Configuration for Vorograd Lore Bible
 title: Vorograd Lore Bible
 description: A Compendium of Lore for Road to Vorograd
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+
+# Theme Settings
+remote_theme: pages-themes/hacker@v0.2.0
+
+# Basic Settings
+baseurl: ""
+url: "https://bigy0shi.github.io"
 
 # Build settings
 markdown: kramdown
-theme: minima
 
-# Exclude from processing
+# Exclude files from Jekyll build
 exclude:
+  - README.md
+  - .gitignore
   - Gemfile
   - Gemfile.lock
   - node_modules

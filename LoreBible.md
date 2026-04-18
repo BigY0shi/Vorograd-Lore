@@ -1,0 +1,720 @@
+```
+███████████████████████████████████████████████████████████████████████████████████████████████████████
+██                                                                                                ██
+██                                                                                                ██
+██        ████████   ██████      █████    ██████         ███████       ██████          ██
+██        ██    ██ ██    ██   ██    ██ ██    ██       ██    ██     ██    ██          ██
+██        ██████   ██    ██   ███████  ██    ██       ██    ██     ██    ██          ██
+██        ██   ██  ██    ██   ██    ██ ██    ██       ██    ██     ██    ██          ██
+██        ██    ██  ██████   ██    ██  ██████        ███████       ██████        ███████
+██                                                                                                ██
+███████████████████████████████████████████████████████████████████████████████████████████████████████████
+██                                                                                                ██
+██                        ██████████████    ███████████████████████                          ██
+██                        ██                  ██                   ██                          ██
+██                        ██████████          ████████████████                          ██
+██                        ██              ████                ████                          ██
+██                        ██            ██  ████              ████  ██                        ██
+██                        ██          ██        ████      ████        ██                      ██
+██                                      ██              ████  ████              ██                    ██
+██                                      ██                    ████                    ██                    ██
+██                                                                                                ██
+██                                    LORE BIBLE - COMPREHENSIVE EDITION                              ██
+██                                         CLASSIFIED DOCUMENT                                        ██
+██                                         YEAR 2043 - KOVROV                                         ██
+██                                                                                                ██
+███████████████████████████████████████████████████████████████████████████████████████████████████████████
+██                                                                                                ██
+██    EXTRACTION SHOOTER FPS   |   POST-COLLAPSE 2043   |   MORALLY COMPLEX   |   TACTICAL COMBAT      ██
+██                                                                                                ██
+██    FACTION: FSD (Blue Helmets)     FACTION: Grey Wolves     FACTION: Operators (You)              ██
+██    LEADER: Kurbanov / Taskmaster   LEADER: Decentralized    HANDLER: "Overwatch"                    ██
+██                                                                                                ██
+██                           ► NOBODY LEAVES CLEAN ◄                                              ██
+██                                                                                                ██
+███████████████████████████████████████████████████████████████████████████████████████████████████████████
+
+```
+
+---
+
+﻿# ROAD TO VOROGRAD
+## Lore Bible — Final Edition
+---
+
+# PART I: THE WORLD
+
+## The Kovrov Industrial Complex
+
+A dead city that refuses to stop bleeding.
+
+The Kovrov Industrial Complex sprawls across twelve square kilometers of abandoned Soviet manufacturing—foundries, chemical plants, weapons factories, and the rail yards that once fed them all. It sits at the throat of the Road to Vorograd, the only viable supply corridor connecting the mineral-rich eastern territories to Vorograd city. Whoever controls Kovrov controls the road. Whoever controls the road controls the region.
+
+In its prime, Kovrov produced tank armor, ammunition casings, and industrial chemicals. Now it produces corpses and opportunities.
+
+**Current Year**: 2043  
+**Years Since Collapse**: 8
+
+---
+
+## The Collapse: What Happened
+
+### Phase 1: The Slow Rot (2028-2031)
+The war between Russia and Ukraine dragged into its sixth year with no end. Both sides exhausted. NATO fractured over intervention costs. China made quiet moves in the Pacific. The global economy, already strained by pandemic aftershocks and climate disruptions, began to buckle under the weight of sustained conflict.
+
+### Phase 2: The Breaking Point (2031-2032)
+Moscow stopped paying its soldiers. Not all at once—first delays, then partial payments in scrip, then nothing. Regional commanders began making their own arrangements. The federal government issued contradictory orders, then stopped issuing orders at all. By winter 2032, the Russian Federation existed only on maps.
+
+### Phase 3: The Cascade (2032-2034)
+Everything connected to everything else, and everything failed together.
+
+- **Supply chains**: Global logistics networks, already strained, snapped. Fuel became political. Shipping became impossible. The cost of moving anything long-distance exceeded the value of most goods.
+- **Communications**: Cyberattacks, infrastructure neglect, and deliberate sabotage collapsed internet connectivity across Eastern Europe. Satellite access became a warlord's privilege.
+- **Energy**: Without reliable fuel, without functioning grids, cities went dark. Factories stopped. Heating failed. People died in their apartments.
+- **Limited nuclear exchange**: Desperate factions exchanged tactical strikes. Not enough to end the world. Enough to make large parts of it uninhabitable. Sevastopol. Two military bases in Poland. A processing facility in Kazakhstan. The contamination spread.
+
+### Phase 4: The New Order (2034-2035)
+From the chaos, strongmen emerged. Whoever controlled resources—fuel, food, weapons, rare minerals—became the new authority. Old borders meant nothing. New borders were drawn in blood and barbed wire.
+
+One man understood this before anyone else.
+
+---
+
+## Kurbanov
+
+**Full Name**: Viktor Semyonovich Kurbanov  
+**Former Rank**: Colonel, GRU Spetsnaz  
+**Current Title**: Director-General of the Vorograd Autonomous Region
+
+Kurbanov didn't survive the collapse. He engineered his position within it.
+
+### The Ministry Years (2014-2032)
+
+After his military career, Kurbanov took a position no one wanted: Head of the Ministry of Reintegration of Occupied Territories. On paper, it was a bureaucratic backwater—managing refugees, processing prisoners, administering contested zones.
+
+In practice, it was a key to every locked door in the war.
+
+Kurbanov had authority over the territories where the real wealth lay buried: the titanium deposits of Donbas, the lithium fields of Zaporizhzhia, the uranium reserves of the Ukrainian Shield. While generals fought over kilometers, Kurbanov fought over commodities. He built networks. He controlled access. He made himself indispensable to people who would later owe him everything.
+
+By 2032, the resources under his influence were worth more than most nations' GDP.
+
+### The Pivot (2033-2035)
+
+When Moscow fell silent, Kurbanov didn't try to resurrect the old order. He built something new.
+
+He called it **Vorograd**—literally "city of war." A name without nationality, without history, without apology. A name that promised only what it could deliver: order in exchange for obedience.
+
+The Federal Security Directorate became his instrument. Not a government agency—a government replacement. The FSD provided security, enforced contracts, collected tribute, and eliminated problems. In return, Kurbanov provided what no one else could: stability.
+
+### The Man
+
+Kurbanov is not a villain in his own story. He believes—genuinely believes—that he saved his region from the chaos that consumed everywhere else. He points to the warlord territories to the north, where factions change monthly and civilians are currency. He points to the contaminated zones to the west, where no authority exists at all. He asks: *Would you prefer that?*
+
+**Psychology**:
+- **Order Above All**: Any stable system beats anarchic violence. Even a brutal one.
+- **Resources Are Legitimacy**: Control the minerals, control the future. Everything else is negotiable.
+- **Paranoid Pragmatism**: Everyone is a potential threat. Trust is weakness. Verify everything. Eliminate uncertainty.
+- **Legacy**: He wants to be remembered as a founder, not a warlord. The distinction matters to him.
+
+**Current Operations**:
+- Mineral extraction and processing (titanium, lithium, uranium)
+- Nuclear weapons development (hidden facilities in Kovrov Complex)
+- Black market resource sales (funding military operations)
+- Population control (tribute, labor conscription, information suppression)
+
+---
+
+## Why You're Here
+
+You are a Tier-1 Operator.
+
+You were inserted into the Kovrov Complex weeks ago—or maybe months. Time blurs when every day is survival. Your handler, callsign "Overwatch," communicates through degraded radio channels. Your extraction dates keep getting pushed. Your mission objectives keep changing.
+
+You were told you're recovering high-value assets for Western interests. Intelligence documents. Prototype weapons. Strategic materials. The kind of work that matters.
+
+You're starting to suspect that's not the whole truth.
+
+### Why Extraction Is Uncertain
+
+The world that sent you here no longer functions the way it did.
+
+- **Fuel**: Helicopter operations require aviation fuel. Aviation fuel requires functional refineries, secure supply lines, and political agreements. None of these exist reliably anymore.
+- **Logistics**: Maintenance infrastructure has collapsed. Every flight is a calculated risk. Every mechanical failure is potentially fatal.
+- **Authority**: There is no unified NATO. No coherent Western command structure. Your employer—whoever they actually are—operates in the gaps between failing institutions.
+- **Communications**: Satellite access is contested. Real-time intelligence is a luxury. Your handler works with information that may be hours or days old.
+
+You are not abandoned. You are simply... deprioritized. Your extraction will happen when it becomes convenient. Until then, you survive.
+
+### What You're Really Doing
+
+Every raid, you gather intelligence. Every extraction, you report. Every piece of loot tells a story about Kovrov's factions, resources, and vulnerabilities.
+
+Someone is using that information. Someone is building leverage. Someone is playing a game much larger than your survival.
+
+You're starting to wonder if you're a piece on the board or just a pawn to be sacrificed.
+
+---
+
+# PART II: THE FACTIONS
+
+## The Federal Security Directorate (FSD)
+
+**Colloquial Name**: Blue Helmets  
+**Allegiance**: Kurbanov  
+**Presence**: Dominant force in Kovrov Complex
+
+The FSD is what happens when a security apparatus becomes a government. They wear uniforms. They follow protocols. They maintain checkpoints and patrol routes and radio discipline. They also execute prisoners, extort civilians, and disappear anyone who asks too many questions.
+
+### Organization
+
+**Command Structure**:
+- **Kurbanov**: Overall authority (rarely present in Kovrov)
+- **Taskmaster**: Senior field commander (see Boss section)
+- **Sector Commanders**: Control specific zones within the Complex
+- **Squad Leaders**: Direct tactical command of 6-12 soldiers
+
+**Personnel Types**:
+
+| Type | Equipment | Role | Threat |
+|------|-----------|------|--------|
+| **Conscript** | AK-74, light armor | Checkpoint duty, basic patrols | Low |
+| **Rifleman** | AK-12, body armor, radio | Standard patrol, combat response | Medium |
+| **Assault** | AK-12 + GP-25, heavy armor | Offensive operations, breach teams | High |
+| **Machinegunner** | PKM, heavy armor | Area denial, suppression | High |
+| **Marksman** | SVD, medium armor | Overwatch, precision elimination | High |
+| **Commander** | AK-12, sidearm, radio | Coordination, reinforcement calls | Medium (tactically critical) |
+
+### Behavior Patterns
+
+**Patrol State**: Predictable routes, regular intervals, radio check-ins. Professional but not paranoid. Can be avoided with patience.
+
+**Alert State**: Triggered by gunfire, missing patrols, or reported contacts. Routes become unpredictable. Reinforcements mobilize. Search patterns expand.
+
+**Combat State**: Coordinated response. Flanking maneuvers. Suppression and advance. Will call for backup. Will not stop until threat is neutralized or they take unacceptable casualties.
+
+### Motivation
+
+FSD soldiers are not fanatics. They're employees.
+
+They get paid—in food, fuel, ammunition, and occasionally hard currency. They get housing. Their families get protection. In a world where most people have nothing, that's enough to buy loyalty.
+
+But loyalty has limits. FSD soldiers will fight hard for their positions. They will not throw their lives away for abstract causes. If a situation becomes obviously hopeless, survivors will retreat. If leadership is eliminated, coordination collapses.
+
+### Visual Identity
+
+- Blue-gray uniforms (standardized, well-maintained)
+- Blue helmet covers or armbands (identification)
+- Unit patches with sector designations
+- Modern Russian/Eastern European equipment
+- Clean weapons, functional gear
+
+---
+
+## The Grey Wolves
+
+**Colloquial Name**: Wolves  
+**Allegiance**: None (decentralized)  
+**Presence**: Distributed throughout Kovrov Complex
+
+The Grey Wolves are not an army. They're not even an organization. They're a loose coalition of survivors who refuse to submit to Kurbanov's order—and who trust outsiders even less.
+
+### Who They Are
+
+Some were soldiers before the collapse. Some were factory workers, teachers, engineers. Some were criminals. All of them lost something—homes, families, futures—and all of them stayed when everyone else fled or died.
+
+They know Kovrov like they know their own hands. Every maintenance tunnel. Every structural weakness. Every hidden cache. They've been fighting here for eight years. They'll be fighting here when everyone else is gone.
+
+### Cell Structure
+
+The Wolves operate in autonomous cells, each with its own leadership, territory, and philosophy. Coordination between cells is loose and often contentious.
+
+**Ideological Cells** (4-8 members)
+- Veteran fighters, often former military
+- Fight for identity, homeland, resistance to occupation
+- Most likely to engage FSD directly
+- Hostile to Operators (foreign interference)
+
+**Survival Cells** (3-6 members)
+- Families, pragmatists, resource-focused
+- Avoid combat when possible
+- Will trade, negotiate, or flee
+- May ignore Operators if not threatened
+
+**Revenge Cells** (2-4 members)
+- Trauma-driven, often young
+- Lost family to FSD actions
+- Aggressive, reckless, unpredictable
+- Attack any target of opportunity
+
+**Criminal Cells** (5-10 members)
+- Black market operators
+- Exploit chaos for profit
+- Will trade with anyone, betray anyone
+- Dangerous but potentially useful
+
+**Religious Cells** (3-12 members)
+- Orthodox faith as resistance identity
+- Martyrdom as acceptable outcome
+- Protect sacred sites, preserve artifacts
+- Unpredictable—may help or attack based on perceived spiritual stakes
+
+### Combat Doctrine
+
+Wolves don't fight fair. They can't afford to.
+
+- **Ambush**: Strike from concealment, focus fire, break contact before response
+- **Traps**: IEDs, tripwires, environmental hazards (explosive barrels, unstable structures)
+- **Terrain**: Use knowledge of the Complex to appear and disappear
+- **Attrition**: Wound rather than kill when possible (wounded enemies drain resources)
+- **Psychological**: Graffiti warnings, displayed kills, reputation as ghosts
+
+### Visual Identity
+
+- Grey cloth markers (armbands, bandanas, spray-painted symbols)
+- Mismatched equipment (scavenged, improvised, captured)
+- Gas masks or face wraps (common but not universal)
+- Wolf iconography (graffiti, patches, carved symbols)
+- Worn, dirty, functional
+
+### Faction Relations
+
+**vs. FSD**: Active guerrilla war. Wolves attack patrols, sabotage convoys, assassinate officers. FSD conducts sweeps, burns caches, executes captured Wolves. No negotiation. No mercy.
+
+**vs. Operators**: Default hostile. Operators are foreign vultures stealing resources that belong to the people who bled for them. However, pragmatic cells may tolerate Operators who focus on FSD targets. Enemy of my enemy is... still probably an enemy, but maybe not today.
+
+**vs. Each Other**: Fragile cooperation. Cells share intelligence and sometimes coordinate operations, but leadership disputes, resource competition, and ideological conflicts create constant tension. The Wolves have no unified command because they can't agree on who should lead.
+
+---
+
+## The Taskmaster
+
+**Callsign**: Taskmaster  
+**Real Name**: Unknown  
+**Role**: Senior FSD Field Commander, Kovrov Complex
+
+When the situation in Kovrov becomes serious, Kurbanov sends the Taskmaster.
+
+### Background
+
+Former GRU Spetsnaz. Possibly a colonel before the collapse. The records that would confirm this no longer exist, and no one who knows is talking.
+
+What's certain: he's the most dangerous individual in the Complex. Not because of his equipment—though it's excellent—but because of his mind. The Taskmaster doesn't just respond to threats. He anticipates them. He studies patterns. He sets traps. He turns your tactics against you.
+
+### Psychology
+
+- **Professional Pride**: He's the best at what he does, and he knows it. Successful infiltrations offend him personally.
+- **True Believer**: Kurbanov's "Order from Chaos" isn't just rhetoric to him. He's seen the alternative. He chose this side deliberately.
+- **Tactical Patience**: He doesn't rush. He waits for the right moment. He lets you commit before he strikes.
+- **No Retreat**: Once engaged, he fights until you're dead or he is. Withdrawal is not in his vocabulary.
+
+### Combat Behavior
+
+The Taskmaster fights in phases:
+
+**Phase 1 (Full Strength)**: Aggressive but controlled. Uses cover effectively. Calls reinforcements. Tests your responses to learn your patterns.
+
+**Phase 2 (Wounded)**: Adapts tactics. Uses grenades more frequently. Coordinates flanking maneuvers. Becomes more dangerous as he becomes more desperate.
+
+**Phase 3 (Critical)**: Abandons caution. Closes distance. Attempts to end the fight through overwhelming aggression. Most dangerous when nearly defeated.
+
+### Dialogue
+
+The Taskmaster talks during combat. Not taunts—assessments. He's gathering information even as he fights.
+
+*"You move like you've had training. Western? Interesting."*
+
+*"Blue units, flanking positions. Cut off the south corridor."*
+
+*"Your equipment is better than your tactics. Someone spent money on you."*
+
+*"This zone belongs to the Directorate. You're already dead—you just don't know it yet."*
+
+*"Impressive. But this ends now."*
+
+### Consequences
+
+Killing the Taskmaster is possible. It's also consequential.
+
+- FSD morale in Kovrov collapses temporarily
+- Kurbanov takes personal interest in the threat
+- Replacement commander may be more or less competent
+- Grey Wolves become more aggressive (power vacuum)
+- Your handler becomes very interested in how you did it
+
+---
+
+## Overwatch
+
+**Role**: Your handler  
+**Employer**: Unknown (private intelligence consortium suspected)  
+**Location**: Unknown (outside the Complex)
+
+Overwatch is a voice on the radio. Calm. Professional. Reliable—until they're not.
+
+### Early Missions
+
+Overwatch is everything a handler should be: clear objectives, accurate intelligence, professional detachment. They provide mission briefings, extraction coordinates, and tactical updates. They don't ask unnecessary questions. They don't offer unnecessary information.
+
+*"Recon-1, objective is in the northwest warehouse. FSD patrol passes every twelve minutes. Recommend stealth approach. Extraction window is twenty-five minutes. Execute."*
+
+### Middle Missions
+
+Something changes. Small things at first. Hesitations before certain orders. Questions that seem off-script. Comments that suggest they're seeing something in the data that troubles them.
+
+*"Command is... satisfied with your progress. Civilian casualties are within acceptable parameters."* (Pause) *"I'm told."*
+
+*"New objective. High-priority target in Sector Seven. Eliminate."* (Longer pause) *"Recon-1, confirm you understand the order."*
+
+### The Revelation
+
+At some point—the exact mission varies based on your actions—Overwatch breaks protocol.
+
+*"Recon-1, we need to talk. Not on the official channel. I'm going to give you a frequency. Use it when you're alone."*
+
+What they tell you:
+- Your employer is not a government. It's a private intelligence consortium.
+- The consortium is funded by multiple competing interests—corporations, intelligence agencies, oligarchs.
+- Your mission isn't recovery. It's destabilization. Every piece of intelligence you gather gives your employers leverage over all parties in the conflict.
+- Extraction has been "delayed" because you're more valuable in the field. When you stop being valuable, you become a liability.
+- Overwatch has been ordered to prepare contingencies for "asset denial." They're supposed to get you killed.
+
+### The Choice
+
+Overwatch offers you options:
+
+1. **Continue**: Keep working for Command. Maybe extraction happens. Maybe it doesn't. Maybe you die on a mission. Maybe you die because of one.
+
+2. **Go Dark**: Disappear into Kovrov. Cut contact. Survive on your own. Become another ghost in the ruins.
+
+3. **Flip**: Approach one of the factions. Offer your skills in exchange for protection. Become part of the conflict instead of a tool in it.
+
+4. **Deal**: Overwatch has contacts. Alternative employers. People who might want an experienced operator with inside knowledge. Risky, but potentially a way out.
+
+What you choose determines the rest of your story.
+
+---
+
+# PART III: THE COMPLEX
+
+## Geography
+
+The Kovrov Industrial Complex divides into distinct zones, each with its own character, threats, and opportunities.
+
+### The Foundry District
+
+Former steel and armor production. Massive structures, heavy machinery, limited sightlines. FSD maintains checkpoints at major intersections but can't patrol the interior effectively.
+
+**Characteristics**:
+- Vertical gameplay (catwalks, crane platforms, machinery)
+- Poor visibility (smoke, steam, darkness)
+- Environmental hazards (molten metal remnants, unstable structures)
+- High-value loot (industrial materials, machinery parts)
+
+**Faction Presence**: FSD checkpoints at perimeter. Wolf ambush territory inside.
+
+### The Chemical Works
+
+Pharmaceutical and industrial chemical production. Partially contaminated. Requires protective equipment in some areas.
+
+**Characteristics**:
+- Hazardous zones (chemical exposure, radiation pockets)
+- Valuable medical and chemical supplies
+- Complex interior layout (labs, storage, processing)
+- FSD guards high-value stockpiles
+
+**Faction Presence**: Heavy FSD presence around intact facilities. Wolves avoid contaminated areas.
+
+### The Rail Yards
+
+Transportation hub connecting all districts. Open terrain with limited cover. Critical chokepoint for faction movement.
+
+**Characteristics**:
+- Long sightlines (sniper territory)
+- Limited cover (train cars, cargo containers)
+- High traffic (both factions move supplies through)
+- Ambush opportunities (predictable movement patterns)
+
+**Faction Presence**: Contested. Both factions patrol. Frequent firefights.
+
+### The Residential Blocks
+
+Worker housing from the Soviet era. Dense urban environment. Civilian presence (non-combatants hiding in the ruins).
+
+**Characteristics**:
+- Close-quarters combat
+- Civilian considerations (moral choices)
+- Hidden caches (apartments, basements)
+- Wolf territory (they protect—and exploit—the remaining population)
+
+**Faction Presence**: Wolf-dominated. FSD conducts sweeps but doesn't hold ground.
+
+### The Administrative Center
+
+Former management facilities. Now FSD command post for the Complex. Heavily fortified.
+
+**Characteristics**:
+- High security (patrols, checkpoints, surveillance)
+- Intelligence opportunities (documents, communications)
+- Taskmaster's base of operations
+- Endgame territory
+
+**Faction Presence**: FSD stronghold. Wolves avoid direct engagement.
+
+---
+
+## Environmental Storytelling
+
+The Complex tells its own story. You just have to read it.
+
+### Soviet Remnants
+
+- Factory signage in Cyrillic (production quotas, safety warnings, propaganda)
+- Worker photographs on bulletin boards (faces of the dead)
+- Soviet monuments (some preserved, some defaced)
+- Equipment stamped with hammer and sickle
+- Memorial plaques for "Heroes of Socialist Labor"
+
+### War Damage
+
+- Artillery scarring on concrete walls
+- Bullet holes in patterns that tell stories (firefights, executions)
+- Burnt-out vehicles (military and civilian)
+- Collapsed structures (airstrikes, artillery, demolition)
+- Unexploded ordnance markers (some accurate, some traps)
+
+### FSD Occupation
+
+- Blue spray-painted markers (sector designations, patrol routes)
+- Checkpoint fortifications (sandbags, barriers, guard posts)
+- Propaganda posters (Kurbanov's face, "Order Through Strength")
+- Surveillance equipment (cameras, sensors, tripwires)
+- Execution sites (bodies left as warnings)
+
+### Wolf Presence
+
+- Grey wolf graffiti (territorial markers, warnings, kill counts)
+- Memorial shrines (candles, photographs, personal items)
+- Hidden symbols (cache locations, safe routes, trap warnings)
+- Improvised fortifications (barricades, sniper nests)
+- Messages to other cells (coded, cryptic)
+
+### Civilian Traces
+
+- Abandoned apartments (meals left on tables, toys on floors)
+- Personal belongings (photographs, letters, religious icons)
+- Mass graves (some marked, some hidden)
+- Survival adaptations (rainwater collection, improvised heating)
+- Signs of recent habitation (someone is still living here)
+
+---
+
+## Loot Economy
+
+Everything in Kovrov has value. The question is: to whom?
+
+### Tier 1: Survival
+
+Items that keep you alive today.
+
+| Item | Use | Value |
+|------|-----|-------|
+| Food (canned, preserved) | Sustenance | Universal |
+| Water (clean, filtered) | Sustenance | Universal |
+| Medicine (antibiotics, painkillers, bandages) | Health | High |
+| Ammunition (common calibers) | Combat | High |
+| Fuel (gasoline, diesel) | Transportation, trade | Very High |
+
+### Tier 2: Tactical
+
+Items that make you more effective.
+
+| Item | Use | Value |
+|------|-----|-------|
+| Weapons (serviceable condition) | Combat | High |
+| Armor (plates, carriers, helmets) | Protection | High |
+| Optics (scopes, night vision, thermal) | Awareness | Very High |
+| Communications (radios, encryption) | Coordination | Very High |
+| Tools (repair kits, lockpicks, cutting tools) | Access | Medium |
+
+### Tier 3: Strategic
+
+Items that matter to factions and employers.
+
+| Item | Use | Value |
+|------|-----|-------|
+| Intelligence (documents, maps, communications logs) | Information | Extremely High |
+| Technical data (blueprints, research, formulas) | Development | Extremely High |
+| Rare materials (uranium, lithium, titanium samples) | Production | Extremely High |
+| Encryption keys (access codes, authentication) | Access | Extremely High |
+| Prototype equipment (experimental weapons, tech) | Advantage | Priceless |
+
+### Tier 4: Political
+
+Items that matter for reasons beyond immediate utility.
+
+| Item | Use | Value |
+|------|-----|-------|
+| Religious artifacts (icons, relics, sacred objects) | Legitimacy, morale | Variable |
+| Cultural items (art, historical documents) | Identity, propaganda | Variable |
+| Atrocity evidence (photographs, records, physical evidence) | Leverage, justice | Dangerous |
+| Personal effects of leaders (Kurbanov, Taskmaster) | Intelligence, blackmail | Extremely Dangerous |
+
+---
+
+# PART IV: TONE AND THEMES
+
+## What This Game Is
+
+**Grounded**: No science fiction. No magic. No cartoon villains. Everything that happens could happen. Everything that exists could exist. The horror comes from plausibility.
+
+**Tactical**: Combat is lethal, deliberate, and consequential. Ammunition matters. Positioning matters. Intelligence matters. Running and gunning gets you killed.
+
+**Morally Complex**: There are no good factions. The FSD maintains order through brutality. The Wolves fight for freedom through terrorism. The Operators serve interests they don't understand. Everyone has reasons. Everyone has blood on their hands.
+
+**Atmospheric**: The Complex is a character. It has moods—oppressive silence, sudden violence, creeping dread. The environment tells stories. The weather affects gameplay. The world feels alive even when it's dying.
+
+**Consequential**: Actions matter. Kill a Wolf leader, and their cell fragments or radicalizes. Sabotage FSD supplies, and patrols intensify. Gather intelligence, and someone uses it. Nothing happens in isolation.
+
+## What This Game Is Not
+
+**Heroic**: You are not saving the world. You are surviving in a corner of it. Your victories are personal. Your impact is local. The larger conflict will continue with or without you.
+
+**Simple**: There are no easy answers. Helping one faction hurts another. Gathering intelligence serves unknown purposes. Even extraction—if it comes—won't undo what you've done or seen.
+
+**Gratuitous**: The violence has weight. Death is ugly. Suffering is real. The game doesn't glorify these things; it acknowledges them. There's a difference between depicting darkness and wallowing in it.
+
+## Core Themes
+
+### Order vs. Chaos
+
+Kurbanov's central question: Is brutal stability better than violent anarchy? The FSD provides security through oppression. The alternatives—warlord territories, contaminated wastelands, complete lawlessness—are arguably worse. There's no comfortable answer.
+
+### Survival vs. Morality
+
+Every raid forces choices. Do you engage the patrol or avoid them? Do you help the civilian or preserve your resources? Do you complete the objective or question why you're completing it? Survival often requires moral compromise. How much compromise is too much?
+
+### Truth vs. Deception
+
+Nothing is what it seems. Your employer lies. Your handler has doubts. The factions have hidden agendas. The intelligence you gather serves purposes you don't understand. In a world of deception, what can you actually know? What should you do with that knowledge?
+
+### Individual vs. System
+
+You are one operator in a vast, grinding conflict. Your actions matter locally but barely register globally. The systems that created this situation—economic, political, military—are beyond any individual's control. What does agency mean when the game is rigged?
+
+### Legacy vs. Pragmatism
+
+What matters in a collapsed world? Principles? Survival? Both? Kurbanov chose pragmatism and built something stable but monstrous. The Wolves chose principles and became terrorists. The Operators chose employment and became tools. Every choice has costs.
+
+---
+
+# PART V: NARRATIVE HOOKS
+
+## Campaign Structure
+
+The game can support multiple narrative paths based on player choices.
+
+### Path A: The Professional
+
+Continue working for Command. Complete objectives. Gather intelligence. Trust that extraction will come. This path explores the cost of following orders without questioning them—and what happens when those orders become impossible to follow.
+
+**Ending possibilities**: Extraction (with strings attached), betrayal, becoming the thing you were fighting against.
+
+### Path B: The Ghost
+
+Cut contact with Command. Disappear into the Complex. Survive on your own terms. This path explores what freedom means when there's nowhere to go—and whether survival without purpose is worth the cost.
+
+**Ending possibilities**: Death (eventually), becoming a legend, finding something worth staying for.
+
+### Path C: The Turncoat
+
+Approach a faction. Offer your skills. Become part of the conflict instead of outside it. This path explores loyalty, identity, and whether you can ever truly belong to a cause you didn't start with.
+
+**Ending possibilities**: Rising within the faction, being used and discarded, changing the faction from within.
+
+### Path D: The Dealer
+
+Work with Overwatch to find alternative employers. Navigate competing interests. Play factions against each other. This path explores the morality of mercenary work—and whether there's a difference between being a tool and being a player.
+
+**Ending possibilities**: Escape (at a price), becoming a power broker, discovering you were being played all along.
+
+## Expansion Hooks
+
+### Geographic
+
+- **Vorograd City**: Kurbanov's stronghold. The endgame. What does "Order from Chaos" look like when it's fully realized?
+- **The Contaminated Zones**: Radiation-scarred territories. What happens when the environment itself becomes the enemy?
+- **The Northern Territories**: Rival warlords. What does Kovrov look like from the outside? What are the alternatives to Kurbanov's order?
+- **Underground**: Metro tunnels, utility systems, bunkers. What's been hiding beneath the Complex all along?
+
+### Faction
+
+- **The Exchange**: Black market syndicate. Neutral ground. What happens when profit becomes the only loyalty?
+- **The Consortium**: Your employers revealed. What do they actually want? What are they willing to do to get it?
+- **The Remnants**: Other operators, stranded like you. What happens when the abandoned find each other?
+- **The Faithful**: Religious resistance. What role does belief play in a world where everything else has failed?
+
+### Narrative
+
+- **Kurbanov's Past**: What made him? What does he fear? What would it take to break him?
+- **Taskmaster's Identity**: Who was he before? What does he owe Kurbanov? What would make him turn?
+- **The Nuclear Program**: How close is it? What would it mean if it succeeded? Who else knows?
+- **Overwatch's Choice**: What happens to handlers who develop consciences? What did they sacrifice to warn you?
+
+---
+
+# APPENDICES
+
+## Appendix A: Terminology
+
+**Military**:
+- **Exfil**: Extraction point
+- **LZ**: Landing zone
+- **Contact**: Enemy spotted
+- **KIA**: Killed in action
+- **ROE**: Rules of engagement
+- **Oscar Mike**: On the move
+- **Tango**: Target/enemy
+
+**Faction**:
+- **Blue Helmets**: FSD forces
+- **Wolves**: Grey Wolf insurgents
+- **Guardians**: What Wolves call FSD (sarcastic)
+- **Vultures**: What Wolves call Operators
+- **The Road**: Supply corridor to Vorograd
+- **The Complex**: Kovrov Industrial Complex
+
+**Operator**:
+- **Command**: Your employers (whoever they are)
+- **Overwatch**: Your handler
+- **The Package**: High-value objective
+- **Going Dark**: Cutting contact
+- **Burned**: Compromised, no longer trusted
+
+## Appendix B: Timeline
+
+| Year | Event |
+|------|-------|
+| 2014 | Kurbanov takes Ministry position |
+| 2022 | Russo-Ukraine War begins |
+| 2028 | Global economic strain intensifies |
+| 2031 | Russian federal authority begins collapse |
+| 2032 | Military payroll stops; regional fragmentation accelerates |
+| 2033 | Limited nuclear exchanges; infrastructure collapse |
+| 2034 | Kurbanov establishes Vorograd |
+| 2035 | FSD consolidates control of Kovrov Complex |
+| 2043 | Present day; Operators deployed |
+
+## Appendix C: Faction Quick Reference
+
+| Faction | Leader | Motivation | Threat Level | Diplomacy |
+|---------|--------|------------|--------------|-----------|
+| **FSD** | Kurbanov (via Taskmaster) | Order, control, resources | High | None |
+| **Grey Wolves** | Decentralized | Survival, resistance, revenge | Variable | Possible (some cells) |
+| **Operators** | Command (via Overwatch) | Mission completion, survival | N/A (player) | N/A |
+
+---
+
+**END LORE BIBLE — OPUS EDITION**
+
+*The Road to Vorograd doesn't lead anywhere you want to go. But you're already on it.*
+
