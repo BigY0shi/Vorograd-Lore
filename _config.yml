@@ -9,6 +9,9 @@ remote_theme: pages-themes/hacker@v0.2.0
 baseurl: ""
 url: "https://bigy0shi.github.io"
 
+# Repository (for GitHub metadata)
+repository: BigY0shi/Vorograd-Lore
+
 # Build settings
 markdown: kramdown
 
@@ -16,3 +19,10 @@ markdown: kramdown
 exclude:
   - README.md
   - .gitignore
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
